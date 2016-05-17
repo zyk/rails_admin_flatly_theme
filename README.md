@@ -7,7 +7,7 @@
 In your `Gemfile`:
 
 ```ruby
-gem 'rails_admin_flatly_theme', github: 'konjoot/rails_admin_flatly_theme'
+gem 'rails_admin_flatly_theme', github: 'zyk/rails_admin_flatly_theme'
 ```
 
 
